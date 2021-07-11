@@ -1,4 +1,8 @@
-# Projeto 1 - Pagina Web tema livre
+## Projeto 1 - Pagina Web tema livre
+
+O resultado final pode ser acessado através da GitHub Page:
+
+https://thaysgama.github.io/dh-frontend-projeto1/
 
 Você deverá desenvolver uma página web, o tema é livre porém nós temos algumas regras.
 
